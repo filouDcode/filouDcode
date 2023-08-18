@@ -8,7 +8,7 @@ Driven for many years by a passion for computing as well as the inevitable digit
 
 * 🌍  I'm based in South-East in France
 * ✉️  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
-* ⚡  For many years I have been a musician, bassist and electronic music composer in my studio at home. This is one of my collaborations on the Beatport platform with a friend on the title [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+* 🎼 🎸 🎧 🎹 For many years I have been a musician, bassist and electronic music composer in my studio at home. This is one of my collaborations on the Beatport platform with a friend on the title [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
