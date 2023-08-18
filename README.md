@@ -1,14 +1,34 @@
-### Hi there 👋
+Hi 👋 My name is Philippe Bouchard
+==================================
+
+Front end web developpeur
+-------------------------
+
+Driven for many years by a passion for computing as well as the inevitable digital transition, and fed by a self-taught code practice, I decided three years ago to launch the challenges of a professional conversion focused on the development of web applications. My journey began in early 2022 by immersing me in the demanding curriculum of the Ecole Epitech de Marseille, which awards me the title of integrator and developer of web applications. Now, my journey continues with a growing fascination for the JavaScript ecosystem and the React framework, a strong appeal for the front end, as well as the desire to turn to the development of mobile applications.
+
+* 🌍  I'm based in South-East in France
+* ✉️  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
+* ⚡  For many years I have been a musician, bassist and electronic music composer in my studio at home. This is one of my collaborations on the Beatport platform with a friend on the title \[Kunf! feat. Phil del Bouchi (Original Mix)\] (https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+
+<a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
 
 
-**filouDcode/filouDcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/filouDcode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/p-bouchard/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/filouDcode"><img src="https://github-readme-stats.vercel.app/api?username=filouDcode&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="filouDcode's GitHub stats" /></a>
+
+<a href="https://github.com/filouDcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
