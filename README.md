@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=2000&color=505050&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe+Bouchard)](https://git.io/typing-svg)
+
+
 ![from_url](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=permanent+marker&weight=700&size=30&duration=3000&pause=4000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe+Bouchard)](https://git.io/typing-svg)==================================
 
 Front-end web developer junior
 ------------------------------
