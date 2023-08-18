@@ -1,4 +1,4 @@
-[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 
 Hi 👋 My name is Philippe Bouchard
 ==================================
