@@ -1,13 +1,13 @@
 Hi 👋 My name is Philippe Bouchard
 ==================================
 
-Front end web developpeur
+Front end web developer
 -------------------------
 
-Driven for many years by a passion for computing as well as the inevitable digital transition, and fed by a self-taught code practice, I decided three years ago to launch the challenges of a professional conversion focused on the development of web applications. My journey began in early 2022 by immersing me in the demanding curriculum of the Ecole Epitech de Marseille, which awards me the title of integrator and developer of web applications. Now, my journey continues with a growing fascination for the JavaScript ecosystem and the React framework, a strong appeal for the front end, as well as the desire to turn to the development of mobile applications.
+Driven for many years by a passion for computing and the inevitable digital transition, and fed by a self-taught code practice, I decided three years ago to launch the challenges of a professional conversion focused on the development of web applications. My journey began in early 2022 by immersing me in the demanding Ecole Epitech de Marseille curriculum, which awards me the title of integrator and developer of web applications. Now, my journey continues with a growing fascination for the JavaScript ecosystem and the React framework, a strong appeal for the front end, and the desire to turn to the development of mobile applications.
 
-* 🌍  I'm based in South-East in France
-* ✉️  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
+* 🌍 I'm based in South-East France
+* 📮 You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
 * 🎼 🎸 🎧 🎹 For many years I have been a musician, bassist and electronic music composer in my studio at home. This is one of my collaborations on the Beatport platform with a friend on the title [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
