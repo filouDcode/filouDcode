@@ -7,7 +7,7 @@ Front-end web developer junior
 
 ### 👦 About me
 
-<img align="left" alt="DaftPunkTocat" height="600" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="left" alt="DaftPunkTocat" width="500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change.
 So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
@@ -20,7 +20,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * 🔊 🎧  Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 * :telescope:  I'm passionate about astronomy
 
-<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
