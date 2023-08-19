@@ -15,19 +15,17 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * 🌍 I'm located in South-East France.
 * 📮 You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com) or [filou.del.charbou@gmail.com](mailto:filou.del.charbou@gmail.com).
 * 🎼 🎸 🎹 For many years I have been a musician, bassist and electronic music composer in my home studio.
-* 🔊 🎧 Listen to this track breakbeat inspired, which was released on the Beatport platform entitled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+* 🔊 🎧 Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Programming Languages
 
-**Programming Languages**
-
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+|--|--|
 
 
 ### Socials
