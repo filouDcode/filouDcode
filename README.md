@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=2000&color=000000&multiline=true&width=800&height=60&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe)](https://git.io/typing-svg)
------------------------------
 
 ![from_url](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 Front-end web developer junior
 ------------------------------
 
-Driven for many years by a passion for computing and the inevitable digital transition, and fed by a self-taught code practice, I decided three years ago to launch the challenges of a professional conversion focused on the development of web applications. My journey began in early 2022 by immersing me in the demanding Ecole Epitech de Marseille curriculum, which awards me the title of integrator and developer of web applications. Now, my journey continues with a growing fascination for the JavaScript ecosystem and the React framework, a strong appeal for the front end, and the desire to turn to the development of mobile applications.
+Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change.
+So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
+Having started in early 2020 with the intensification of my self-taught practice, I later became involved in the demanding curriculum of the Epitech School, which gave me the title of integrator and developer of web applications.
+My journey continues with growing interest in the JavaScript ecosystem, whether it is front-end or back-end, and the desire to invest in the development of mobile applications.
 
 * 🌍 I'm located in South-East France.
 * 📮 You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com) or [filou.del.charbou@gmail.com](mailto:filou.del.charbou@gmail.com).
