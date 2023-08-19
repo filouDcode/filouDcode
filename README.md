@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=2000&color=000000&multiline=true&width=800&height=60&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe)](https://git.io/typing-svg)
-
-
 <img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding" width="900" height ="350" />
+
+<h1 align="center">Hi 👋, I'm Alok Kumar Verma</h1>
 
 Front-end web developer junior
 ------------------------------
