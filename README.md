@@ -3,7 +3,6 @@
 <h1 align="center">< Hi there 👋, I'm Philippe /></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=29A16E&vCenter=true&width=600&lines=Front-end+web+developer+junior)](https://git.io/typing-svg)
----
 
 ### 👦 About me
 
