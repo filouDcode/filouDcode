@@ -2,8 +2,8 @@
 
 <h1 align="center">< Hi there 👋, I'm Philippe /></h1>
 
-Front-end web developer junior
-------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=29A16E&width=435&lines=I+am+a+Front+End+web+developer+junior)](https://git.io/typing-svg)
+---
 
 ### 👦 About me
 
@@ -21,9 +21,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * :telescope:  I'm passionate about astronomy
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-
-<a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### :desktop_computer: Programming Languages
 
