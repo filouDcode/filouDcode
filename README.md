@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-th
 
 ### Programming Languages
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />|
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/node/node.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />|
 |--|--|--|
 
 ### Library & Framework
