@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=2000&color=000000&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe+Bouchard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=2000&color=000000&vCenter=true&multiline=true&width=800&height=80&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe)](https://git.io/typing-svg)
+=============================
 
 ![from_url](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
