@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=2000&color=000000&multiline=true&width=800&height=60&lines=Hey+%F0%9F%91%8B%2C+my+name+is+Philippe)](https://git.io/typing-svg)
 
-![from_url](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding" width="900" height ="350" />
 
 Front-end web developer junior
 ------------------------------
 
-### About me
+### 👦 About me
 
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change.
 So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
@@ -17,7 +18,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * 🎼 🎸 🎹 For many years I have been a musician, bassist and electronic music composer in my home studio.
 * 🔊 🎧 Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
