@@ -7,7 +7,7 @@ Front-end web developer junior
 
 ### 👦 About me
 
-<img align="left" alt="DaftPunkTocat" width="500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="DaftPunkTocat" width="500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change.
 So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
