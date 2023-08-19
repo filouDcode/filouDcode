@@ -24,7 +24,17 @@ src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-th
 
 ### Programming Languages
 
-<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img alt="Typescript" title="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+
+### Library & Framework
+
+<img alt="Laravel" title="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/Laravel/Laravel.png">
+<img alt="Vue" title="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/Vue/Vue.png">
+<img alt="Laravel" title="Laravel" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/React/React.png">
+
+
+
 
 
 ### Socials
