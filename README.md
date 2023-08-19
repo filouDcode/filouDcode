@@ -5,6 +5,8 @@
 Front-end web developer junior
 ------------------------------
 
+### About me
+
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change.
 So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
 Having started in early 2020 with the intensification of my self-taught practice, I later became involved in the demanding curriculum of the Epitech School, which gave me the title of integrator and developer of web applications.
@@ -14,6 +16,8 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * 📮 You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com) or [filou.del.charbou@gmail.com](mailto:filou.del.charbou@gmail.com).
 * 🎼 🎸 🎹 For many years I have been a musician, bassist and electronic music composer in my home studio.
 * 🔊 🎧 Listen to this track breakbeat inspired, which was released on the Beatport platform entitled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <a href="https://www.github.com/filouDcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/filouDcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
