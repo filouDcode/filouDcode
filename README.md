@@ -38,8 +38,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
   
 * :telescope:  I'm passionate about astronomy
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-
 <br/>  
 
 <table><tr><td valign="top" width="33%">
