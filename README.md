@@ -42,7 +42,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ### My stack
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="top" width="33%">
 
 ## Frontend  
 <div align="center">  
