@@ -73,4 +73,4 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated with :heart: using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
