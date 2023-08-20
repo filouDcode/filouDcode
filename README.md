@@ -24,7 +24,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </br>
 
-### :star:Interest
+### :star: Interest
 
 * 🌍  I'm located in South-East France.
   
@@ -33,6 +33,8 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electronic music composer in my home studio.
   
 * 🔊 🎧  Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+
+* :fire: I'm currently having some hard times on GNU/Linux & Fluter with Dart
   
 * :telescope:  I'm passionate about astronomy
 
