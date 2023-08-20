@@ -2,7 +2,7 @@
 
 <h1 align="center">< Hi there 👋, I'm Philippe /></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=29A16E&vCenter=true&width=600&lines=Front-end+web+developer+junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=29A16E&vCenter=true&width=600&lines=JavaScript+enthusiast+&+front-end+web+developer+junior)](https://git.io/typing-svg)
 
 <img align="right" alt="DaftPunkTocat" width="500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
