@@ -40,11 +40,10 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-### My stack
-
 <table><tr><td align="top" width="33%">
 
-## Frontend  
+## :desktop_computer: Frontend
+
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -62,7 +61,8 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </td><td valign="top" width="33%">
 
-### Backend  
+## :keyboard: Backend
+
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -76,7 +76,8 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+## DevOps
+
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -88,28 +89,11 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <br/>  
 
-
-### :keyboard: Library & Framework
-
-<img title="Vue" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|<img title="Rect" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
+### GitHub Stats
 
 
 
-
-
-
-### Socials
-
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/filouDcode"><img src="https://github-readme-stats.vercel.app/api?username=filouDcode&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="filouDcode's GitHub stats" /></a>
-
-<a href="https://github.com/filouDcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
 <br/>  
 
