@@ -94,10 +94,20 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <br/>  
 
+### :bar_chart: Github Stats
 
-### GitHub Stats
+<table><tr><td valign="top" width="50%">
+
+![Twin screen's dev](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)  
 
 
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=filouDcode&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>  
+
+<br/>  
 
 ---
 
