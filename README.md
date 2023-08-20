@@ -24,6 +24,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </br>
 
+### :star:Interest
 
 * 🌍  I'm located in South-East France.
   
