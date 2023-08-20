@@ -21,13 +21,18 @@ Having started in early 2020 with the intensification of my self-taught practice
 </br>
 
 My journey continues with growing interest in the JavaScript ecosystem, whether it is front-end or back-end, and the desire to invest in the development of mobile applications.
+
 </br>
 
 
 * 🌍  I'm located in South-East France.
+  
 * 📮  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
+  
 * :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electronic music composer in my home studio.
+  
 * 🔊 🎧  Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
+  
 * :telescope:  I'm passionate about astronomy
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
