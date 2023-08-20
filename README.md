@@ -40,10 +40,13 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-<table><tr><td align="top" width="33%">
+<br/>  
 
-## :desktop_computer: Frontend
+<table><tr><td valign="top" width="33%">
 
+
+
+### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -61,8 +64,9 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </td><td valign="top" width="33%">
 
-## :gear: Backend
 
+
+### Backend  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -76,8 +80,9 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </td><td valign="top" width="33%">
 
-## :robot: DevOps
 
+
+### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -88,6 +93,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 </td></tr></table>  
 
 <br/>  
+
 
 ### GitHub Stats
 
