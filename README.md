@@ -4,13 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=29A16E&vCenter=true&width=600&lines=Front-end+web+developer+junior)](https://git.io/typing-svg)
 
-### 👦 About me
-
 <img align="right" alt="DaftPunkTocat" width="500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<details><summary>About me</summary>
-
-### 👦 About me  
+<details><summary>### 👦 About me</summary>
+  
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change 🚀. 
 <br/>
 So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
@@ -20,6 +17,7 @@ Having started in early 2020 with the intensification of my self-taught practice
 My journey continues with growing interest in the JavaScript ecosystem, whether it is front-end or back-end, and the desire to invest in the development of mobile applications.
 </br>  
 </details>
+
 * 🌍  I'm located in South-East France.
 * 📮  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
 * :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electronic music composer in my home studio.
