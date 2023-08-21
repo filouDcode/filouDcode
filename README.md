@@ -79,7 +79,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ### :bar_chart: Github Stats
 
-<<img src="https://github-readme-stats.vercel.app/api?username=filouDcode&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=filouDcode&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&theme=github_dark&hide_border=true&layout=donut&langs_count=6" align="right" />
 
