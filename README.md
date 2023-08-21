@@ -43,6 +43,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <table><tr><td valign="top" width="33%">
 
 
+### :ninja: Hard Skills
 
 ### Frontend  
 <div align="center">  
@@ -108,8 +109,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 </td></tr></table>  
 
 <br/>  
-
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=filouDcode&&style=flat-square" align="center" />
