@@ -40,10 +40,9 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
-
 ### :ninja: Hard Skills
+
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
