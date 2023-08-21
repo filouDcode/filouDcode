@@ -89,13 +89,12 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=filouDcode&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=filouDcode&style=flat-square" />
 </div>
 
 <br/>  
 
 <div align="center">
-  
            <a href="https://paypal.me/charbou1972" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
