@@ -96,14 +96,18 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 <div align="center">
   
-    <a href="https://paypal.me/charbou1972" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=plastic&logo=paypal" align="center"/>
-    </a>
-    
-    <a href="https://www.buymeacoffee.com/filouDcode" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" align="center"/>
-    </a>
-</div>
+           <a href="https://paypal.me/charbou1972" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/filouDcode" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
 
 <br />
 
