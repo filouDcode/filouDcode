@@ -38,8 +38,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ### :ninja: Hard Skills
 
-<table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -55,9 +53,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
