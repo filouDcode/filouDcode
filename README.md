@@ -84,9 +84,9 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&theme=github_dark&hide_border=true&langs_count=6" align="right" />
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filouDcode&theme=github-dark-blue&hide_border=true&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filouDcode&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&dates=0CA606)](https://git.io/streak-stats)
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=filouDcode&style=flat-square" />
