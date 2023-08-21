@@ -10,10 +10,6 @@
   
 Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change 🚀.
 
-<br/>
-
-So it was a time to challenge myself to retrain in this field that has fascinated me for a long time, the development of web applications.
-
 </br>
 
 Having started in early 2020 with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of integrator and developer of web applications 🎓.
