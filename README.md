@@ -101,9 +101,9 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=filouDcode&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=filouDcode&theme=github_dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filouDcode&theme=github_dark&hide_border=true&layout=donut&langs_count=6" align="left" />
 
 </td></tr></table>  
 
