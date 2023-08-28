@@ -8,15 +8,15 @@
 
 ### 👦 About me
   
-Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the 2020 pandemic as a sign of a timely career change 🚀.
+Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the world's 2020 pandemic as a sign of a timely career change 🚀.
 
 </br>
 
-Having started in early 2020 with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of developer of web applications 🎓.
+Having started in early 2020 with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of designer and developer 🎓.
 
 </br>
 
-My journey continues with growing interest in the JavaScript ecosystem, whether it is front-end or back-end, and the desire to invest in the development of mobile applications.
+My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications.
 
 </br>
 
@@ -26,11 +26,11 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
   
 * 📮  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
   
-* :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electronic music composer in my home studio.
+* :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electro-music composer in my home studio.
   
 * 🔊 🎧  Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213).
 
-* :fire: I'm currently having some hard times on GNU/Linux & Fluter with Dart
+* :fire: I'm currently having some hard times on GNU/Linux & Fluter
   
 * :telescope:  I'm passionate about astronomy
 
