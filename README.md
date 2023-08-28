@@ -8,11 +8,11 @@
 
 ### 👦 About me
   
-Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the COVID-19 pandemic as a sign of a timely career change 🚀.
+Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the 2020 pandemic as a sign of a timely career change 🚀.
 
 </br>
 
-Having started in early 2020 with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of integrator and developer of web applications 🎓.
+Having started in early 2020 with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of developer of web applications 🎓.
 
 </br>
 
