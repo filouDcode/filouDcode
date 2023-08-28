@@ -14,8 +14,6 @@ Having started with the intensification of my self-taught practice 👨‍💻, 
 
 My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications.
 
-</br>
-
 ### :star: Interest
 
 * 🌍  I'm located in South-East France.
@@ -29,8 +27,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 * :fire: I'm currently having some hard times on GNU/Linux & Fluter
   
 * :telescope:  I'm passionate about astronomy
-
-<br/>  
 
 ### :ninja: Hard Skills
 
@@ -70,8 +66,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="80" /></a>  
 </div>
-
-<br/>  
 
 ### :bar_chart: Github Stats
 
