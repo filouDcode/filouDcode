@@ -26,7 +26,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 *  :fire:   I'm currently having some hard times on GNU/Linux & Fluter, and I'm still struggling with Github :octocat:
 
-*  📮   You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
+*  :e-mail:  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
 
   
 
