@@ -12,13 +12,13 @@ Driven for many years by a passion for IT and fueled by a self-taught code, I sa
 
 Having started with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of web designer and developer 🎓
 
-My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications
+My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications :iphone:
 
 ### :star: Interest
 
 *  🌍   I'm located in South-East France
 
-*  :telescope:   I've been passionate about astronomy since I first looked in a telescope
+*  :ringed_planet: :moon: :milky_way:  I've been passionate about astronomy since I first looked in a telescope :telescope: :alien: :flying_saucer:
 
 *  :musical_note: 🎸 🎹   For many years I have been a musician, bassist and electro-music composer in my home studio
   
