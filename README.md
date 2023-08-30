@@ -8,11 +8,11 @@
 
 ### 👦 About me
   
-Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the world's 2020 pandemic as a sign of a timely career change 🚀.
+Driven for many years by a passion for IT and fueled by a self-taught code, I saw the emergence of the world's 2020 pandemic as a sign of a timely career change 🚀
 
-Having started with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of web designer and developer 🎓.
+Having started with the intensification of my self-taught practice 👨‍💻, I later became involved in the demanding curriculum of the Epitech School 🏛️, which gave me the title of web designer and developer 🎓
 
-My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications.
+My journey continues with growing interest in the JavaScript ecosystem, whether front-end or back-end and the desire to invest in the development of mobile applications
 
 ### :star: Interest
 
