@@ -16,17 +16,19 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ### :star: Interest
 
-* 🌍  I'm located in South-East France
+* 🌍 I'm located in South-East France
+
+* :telescope: I'm passionate about astronomy
+
+* :musical_note: 🎸 🎹 For many years I have been a musician, bassist and electro-music composer in my home studio
   
-* 📮  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
-  
-* :musical_note: 🎸 🎹  For many years I have been a musician, bassist and electro-music composer in my home studio
-  
-* 🔊 🎧  Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213)
+* 🔊 🎧 Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213)
 
 * :fire: I'm currently having some hard times on GNU/Linux & Fluter
+
+* 📮 You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
+
   
-* :telescope:  I'm passionate about astronomy
 
 ### :ninja: Hard Skills
 
