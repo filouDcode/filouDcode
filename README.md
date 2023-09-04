@@ -20,9 +20,10 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 *  :ringed_planet: :moon: :milky_way:  I've been passionate about astronomy since I first looked in a telescope :telescope: :alien: :flying_saucer:
 
-*  :musical_note: 🎸 🎹   For many years I have been a musician, bassist and electro-music composer in my home studio
+*  :musical_note: 🎸 🎹   Since my childhood I have been a musician, bassist and electro-music composer in my home studio
   
 *  🔊 🎧   Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213)
+*  My first computer was a :commodore:
 
 *  :fire:   I'm currently having some hard times on GNU/Linux & Fluter, and I'm still struggling with Github :octocat:
 
