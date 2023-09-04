@@ -26,9 +26,6 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 *  My first computer was a Commodore 64, and later a much more advanced Atari 520ST :rofl:................ yeah, so long ago :scream:
 
 *  :fire:   I'm currently having some hard times on GNU/Linux & Fluter, and I'm still struggling with Github :octocat:
-
-*  :e-mail:  You can contact me at [philippe-bouchard@hotmail.com](mailto:philippe-bouchard@hotmail.com)
-
   
 
 ### :ninja: Hard Skills
