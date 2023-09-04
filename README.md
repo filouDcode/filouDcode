@@ -23,7 +23,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 *  :musical_note: 🎸 🎹   Since my childhood I have been a musician, bassist and electro-music composer in my home studio
   
 *  🔊 🎧   Listen to this track released on Beatport some years ago and titled : [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213)
-*  My first computer was a :commodore:
+*  My first computer was a Commodore 64, and an Atari 520ST later................ yeah, so long ago
 
 *  :fire:   I'm currently having some hard times on GNU/Linux & Fluter, and I'm still struggling with Github :octocat:
 
