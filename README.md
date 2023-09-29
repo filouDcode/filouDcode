@@ -23,7 +23,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 *  :musical_note: 🎸 🎹   Since my childhood I have been a musician, bassist and electro-music composer in my home studio
   
 *  🎧   Listen to this track released on Beatport some years ago and titled 🔊 🔊 🔊 [Kunf! feat. Phil del Bouchi (Original Mix)](https://www.beatport.com/track/kunf-feat-phil-del-bouchi/8652213)  🔊 🔊 🔊
-*  My first computer :desktop_computer: was a Commodore 64, and a few years later the BEAST Atari 1040ST :rofl:..... yea I'm that old :scream:
+*  My first computer :desktop_computer: was a Commodore 64, and a few years later the BEAST Atari 1040ST :rofl:....... yea I'm that old :scream:
 
 * 🔥🔥🔥 I'm currently having some hard times on GNU/Linux and Fluter, actually I enjoy struggling with Github :octocat: and pretty much all the languages.
   
@@ -100,5 +100,5 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ---
 <div align="center">
-  <p>Build :building_construction: with :heart: , using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> , and the MagicBot :robot:....:trollface:</p>
+  <p>Build :building_construction: with :heart: , using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> , and the MagicBot :robot:…....:trollface:</p>
 </div>
