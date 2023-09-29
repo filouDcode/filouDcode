@@ -16,7 +16,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ### :star: Interest
 
-*  🌍   I'm located in South-East France
+*  🌍   I was born & still living in South-East France
 
 *  :ringed_planet: :moon: :milky_way:  I've been passionate about astronomy since I first looked in a telescope :telescope: :alien: :flying_saucer:
 
