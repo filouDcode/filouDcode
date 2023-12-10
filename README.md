@@ -18,7 +18,7 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 *  🌍   I was born & still living in the same small town in South-East France
 
-*  :ringed_planet: :moon: :milky_way:  I've been passionate about astronomy since I first looked in a telescope :telescope: :alien: :flying_saucer:
+*  :ringed_planet: :moon: :milky_way:  Ever since I first peered through a telescope, my passion for astronomy has been unwavering :telescope: :alien: :flying_saucer:
 
 *  :musical_note: 🎸 🎹   Since my childhood I have been a musician, bassist and electro-music composer in my home studio
   
