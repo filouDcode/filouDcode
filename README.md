@@ -96,5 +96,5 @@ My journey continues with growing interest in the JavaScript ecosystem, whether 
 
 ---
 <div align="center">
-  <p>Build :building_construction: with :heart: , using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> , and the MagicBot :robot:…....:trollface:</p>
+  <p>Build :building_construction: with :heart: , using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> , and the MagicBot</p>
 </div>
